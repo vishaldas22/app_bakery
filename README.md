@@ -1,7 +1,11 @@
 # appbakery
 
-A new Flutter application.
+This is a simple bakery app design template.
 
+# screenshots
+
+![](screenshots/homepage.jpeg)
+![](screenshots/detailsPage.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
